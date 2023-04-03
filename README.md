@@ -1,2 +1,2 @@
 # pythonproject
-project
+testpythonproject
